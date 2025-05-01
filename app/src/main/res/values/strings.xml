@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Viajenet</string>
+    <string name="my_name">Jonathan David Socongocha Talero</string>
+    <string name="intro">Inicia una nueva aventura con Viajenet y descubre los lugares más increíbles del mundo</string>
+    <string name="comienza">Comienza</string>
+    <string name="registro">Registrate</string>
+    <string name="descripcion">La aventura está por iniciar, por favor inicia sesión</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="recuperacion">Recupera tu contraseña</string>
+    <string name="google">Ingresa con Google</string>
+    <string name="sin_cuenta">¿No tienes cuenta?</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="con_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="contraseña">Constraseña</string>
+</resources>

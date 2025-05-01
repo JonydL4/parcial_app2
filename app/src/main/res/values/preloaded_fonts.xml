@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/courier_prime_bold</item>
+        <item>@font/courier_prime_italic</item>
+        <item>@font/eb_garamond_semibold</item>
+        <item>@font/gentium_plus</item>
+        <item>@font/hanuman_black</item>
+        <item>@font/kameron_bold</item>
+        <item>@font/libre_baskerville</item>
+        <item>@font/libre_baskerville_italic</item>
+        <item>@font/lora_italic</item>
+        <item>@font/merriweather_light_italic</item>
+        <item>@font/vollkorn</item>
+        <item>@font/vollkorn_bold</item>
+        <item>@font/vollkorn_extrabold</item>
+        <item>@font/vollkorn_medium</item>
+        <item>@font/vollkorn_medium_italic</item>
+    </array>
+</resources>
